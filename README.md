@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I am a protein biochemist and biophysicist who bri
 ---
 
 ### 🧬 Featured Projects & Pipelines
-* **Project Drug Discovery** [Project_Drug-Discovery](https://github.com)
+* **Project Drug Discovery** [Project_Drug-Discovery](https://github.com/susobhan02/Project_Drug-Discovery)
   * Data analytics workflows, automated pipelines, EDA, and SQL integrations tailored for pharmaceutical data evaluation.
 * **B2AR Virtual Drug Screening** [B2AR-Virtual-Drug-Screening](https://github.com/susobhan02/B2AR-Virtual-Drug-Screening-Engine)
   * Computational screening pipelines mapping structural dynamics and ligand-binding kinetics of the $\beta_2$-adrenergic receptor.
