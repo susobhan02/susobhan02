@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Susobhan Choudhury, Ph.D.
 
-🧬 **Postdoctoral Research Scientist | Data Analyst & ML Engineer**  
+🧬 **Research Scientist | Assay development | Biophysical & Biochemical analysis  | Data Analyst & ML Engineer**  
 Welcome to my GitHub profile! I am a protein biochemist and biophysicist who bridges the gap between deep molecular biology and data-driven insights. I leverage **Python, Machine Learning, and SQL** to solve complex biological data problems, focusing on integral membrane proteins (GPCRs) and high-throughput analytics.
 
 ---
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a protein biochemist and biophysicist who bri
 ### 🚀 About Me & Core Expertise
 * 🔬 **Biophysical Assay Pioneer:** Developed and applied advanced live-cell protein interaction assays (FRET, FCS, dual-color FCCS) with single-molecule sensitivity.
 * 🛠️ **Instrumentation Builder:** Built, aligned, and operated a custom confocal FCS/FCCS microscope system over 8 years.
-* 📊 **Data-Driven Scientist:** 14+ years of data analysis experience using tools like Python, MATLAB, and SQL, coupled with advanced Machine Learning training from Ironhack.
+* 📊 **Data-Driven Scientist:** 14+ years of data analysis experience. Used tools like excel, Origin, Python, MATLAB, and SQL, coupled with advanced Machine Learning. 
 * 📚 **Proactive Researcher:** Author of 29 peer-reviewed publications mapping sub-millisecond GPCR dynamics and biomolecular interactions.
 
 ---
