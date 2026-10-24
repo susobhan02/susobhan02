@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I am a protein biochemist and biophysicist who bri
 | :--- | :--- |
 | **Data Analytics & ML** | OriginPro, ImageJ/FIJI, Python, SQL, MATLAB, Machine Learning |
 | **Biochemistry & Engineering** | Cell culture, Tranfection, Protein Expression & Purification (Mammalian/Bacterial), Construct Design, Cloning |
-| **Biophysical Assays** | FRET, FCS, FCCS, Anisotropy, Time-Resolved Spectroscopy, SPR/BLI |
+| **Biophysical Assays** | FRET, FCS, FCCS, Anisotropy, Time-Resolved Spectroscopy, Plate reader |
 | **Data Standards** | FAIR Data Principles, Electronic Lab Notebooks (ELN), SOP Development |
 
 ---
