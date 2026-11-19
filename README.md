@@ -14,10 +14,12 @@ Welcome to my GitHub profile! I am a protein biochemist and biophysicist who bri
 ---
 
 ### 🧬 Featured Projects & Pipelines
-* **Project Drug Discovery** [Project_Drug-Discovery](https://github.com/susobhan02/Project_Drug-Discovery)
-  * Data analytics workflows, automated pipelines, EDA, and SQL integrations tailored for pharmaceutical data evaluation.
-* **B2AR Virtual Drug Screening** [B2AR-Virtual-Drug-Screening](https://github.com/susobhan02/B2AR-Virtual-Drug-Screening-Engine)
-  * Computational screening pipelines mapping structural dynamics and ligand-binding kinetics of the $\beta_2$-adrenergic receptor.
+- **ML-Driven Virtual Drug Screening Platform** ([ML-driven-virtual-drug-screening-platform](https://github.com))
+  - Complete end-to-end platform for early-stage drug discovery combining **supervised & unsupervised machine learning** with **LLMs** to predict drug-target interactions (DTI) and simulate novel drug candidates from existing molecular scaffolds.
+- **B2AR Virtual Drug Screening Engine** ([B2AR-Virtual-Drug-Screening-Engine](https://github.com/susobhan02/B2AR-Virtual-Drug-Screening-Engine))
+  - Interactive computational screening pipeline targeting the $\beta_2$-adrenergic receptor (GPCR), built to filter out low-potential drug candidates at early discovery stages with **93% precision**.
+- **Pharmaceutical Data Analytics & SQL Pipeline** ([Project_Drug-Discovery](https://github.com/susobhan02/Project_Drug-Discovery))
+  - Automated exploratory data analysis (EDA), SQL database integrations, and visualization workflows tailored for pharmaceutical compound evaluation.
 
 ---
 
